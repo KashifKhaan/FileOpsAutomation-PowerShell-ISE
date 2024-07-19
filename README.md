@@ -88,5 +88,3 @@ This project contains a PowerShell script that automates file management tasks s
      ```bash
      git push -u origin master
      ```
-
-And that's it! Your project is now uploaded to GitHub and ready for others to use and contribute to.
